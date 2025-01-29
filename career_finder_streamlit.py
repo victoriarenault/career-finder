@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/victoriarenault/career-finder/main/logo.png
+st.image("https://raw.githubusercontent.com/victoriarenault/career-finder/main/logo.png", width=200)
 import streamlit as st
 import pandas as pd
 
