@@ -1,7 +1,6 @@
-st.image("https://raw.githubusercontent.com/victoriarenault/career-finder/main/logo.png", width=200)
 import streamlit as st
 import pandas as pd
-
+st.image("https://raw.githubusercontent.com/victoriarenault/career-finder/main/logo.png", width=200)
 # Load career data from Excel file
 file_path = "Draft Master - Career Pathways.xlsx"
 
