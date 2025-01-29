@@ -1,4 +1,4 @@
-st.image("https://raw.githubusercontent.com/victoriarenault/repo-name/main/logo.png", width=200)
+https://raw.githubusercontent.com/victoriarenault/career-finder/main/logo.png
 import streamlit as st
 import pandas as pd
 
